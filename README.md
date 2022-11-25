@@ -1,2 +1,4 @@
 # Multi-Play-VR
-Photonサーバーを使ったマルチプレイVR環境作成の勉強
+
+PhotonサーバーとXR interaction toolkitを使用したマルチプレイVR環境。
+　現在勉強のために作成している段階です。
