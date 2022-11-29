@@ -1,9 +1,9 @@
 {
     "m_SelectedDeviceId": "1WMHH831490504",
     "m_SelectedPackage": {
-        "deviceId": "1WMHH831490504",
-        "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
-        "processId": 4985,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,55 +11,31 @@
         {
             "deviceId": "1WMHH831490504",
             "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
-            "processId": 26630,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH831490504",
-            "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
-            "processId": 28522,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH831490504",
-            "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
-            "processId": 9018,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH831490504",
-            "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
-            "processId": 9423,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH831490504",
-            "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
-            "processId": 10619,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH831490504",
-            "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
-            "processId": 11315,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH831490504",
-            "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
             "processId": 11922,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "1WMHH831490504",
             "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
             "processId": 12660,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "1WMHH831490504",
             "name": "com.NishilabMultiPlay.UDEMYMultiplayerVRTemplate",
             "processId": 4985,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH831490504",
+            "name": "com.NishilabMultiPlay.MultiplayerVRPractice",
+            "processId": 5246,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH831490504",
+            "name": "com.oculus.shellenv",
+            "processId": 3287,
             "exited": false
         }
     ],
