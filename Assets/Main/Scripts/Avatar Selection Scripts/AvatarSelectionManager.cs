@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class AvatarSelectionManager : MonoBehaviour
 {
@@ -96,7 +97,7 @@ public class AvatarSelectionManager : MonoBehaviour
     /// <param name="avatarIndex"></param>
     private void ActivateAvatarModelAt(int avatarIndex)
     {
-        foreach (GameObject selectableAvatarModel in selectableAvatarModels)
+        foreach (GameObject selectableAvatarModel in selectableAvatarModels)//一旦全てfalseに
         {
             selectableAvatarModel.SetActive(false);
         }
@@ -113,7 +114,7 @@ public class AvatarSelectionManager : MonoBehaviour
     /// <param name="avatarIndex"></param>
     private void LoadAvatarModelAt(int avatarIndex)
     {
-        foreach (GameObject loadableAvatarModel in loadableAvatarModels)
+        foreach (GameObject loadableAvatarModel in loadableAvatarModels)　//一旦全てfalseに
         {
             loadableAvatarModel.SetActive(false);
         }
